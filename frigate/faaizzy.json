@@ -1,0 +1,9 @@
+{
+  "wake_words": [
+    {
+      "name": "faaizzy",
+      "model": "faaizzy.tflite",
+      "sensitivity": 0.5
+    }
+  ]
+}
